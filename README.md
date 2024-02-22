@@ -1,8 +1,13 @@
-## <img height="60" width="60" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/hello.gif" /> Creative Idea & Clean Result
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Front-end+Developer;Senior+Back-end+Developer;Senior+Blockchain+Deveoper)](https://git.io/typing-svg)
-<img align="right" width="350" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/image03.gif" />
-I'm a full stack developer with a knack for web, mobile, blockchain, and DevOps. I speak the language of HTML, CSS, JS, and can dance with frameworks like Node.js, Laravel, Django, React, Angular, and Vue.js. When it comes to mobile apps, I'm fluent in Swift, Kotlin, React Native, and Flutter. And hey, if you need to dive into the exciting world of blockchain, I know my way around Solidity, Truffle, and Web3.js. 
- </br>
-But wait, there's more! I've got the DevOps game covered too. Docker, Kubernetes, Jenkins, and AWS are like my trusty sidekicks. 
- </br>
-So, whether you need a website, a mobile app, or want to explore the blockchain universe, I'm here to deliver top-notch solutions tailored to your needs. Let's make some digital magic happen! 
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+<h3 align="left">As a hardworking developer, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.</h3>
+<h3 align="left">Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.</h3>
+<h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.</h3>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=ts,js,nodejs,angular,react,nuxt,next,express,vue,laravel,php,wordpress,css,html,figma,python,django,flask,fastapi,cpp,qt,dotnet,androidstudio,flutter,java,go,,,docker,postgresql,mysql,mongodb,firebase,postman,cloudflare,aws,azure&perline=13"/>
+</div>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
