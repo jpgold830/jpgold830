@@ -1,6 +1,6 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Front-end+Developer;Senior+Back-end+Developer;Senior+Blockchain+Deveoper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full-Stack+Developer;AI+Specialist;Project+Manager)](https://git.io/typing-svg)
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 <h3 align="left">I am a seasoned web developer with 5 years of experience in diverse industries such as e-commerce, education, finance, and insurance.</h3>
