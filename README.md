@@ -4,7 +4,7 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 <h3 align="left">I am a seasoned web developer with 5 years of experience in diverse industries such as e-commerce, education, finance, and insurance.</h3>
-<h3 align="left">I hold a Master's degree from the University of San Francisco, where I currently contribute to the development of innovative AI solutions at the Innovation Hive.</h3>
+<h3 align="left">I hold a Master's degree from University of San Francisco, where I currently contribute to the development of innovative AI solutions at the Innovation Hive.</h3>
 <h3 align="left">With a robust background in software engineering, data science, and mathematics, I am passionately committed to advancing these fields and navigating the dynamic landscape of software research.</h3>
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 <div align="center">
